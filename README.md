@@ -6,9 +6,9 @@ Hagai Nativ1,2, Federica Scucchia3, Stephane Martinez1,2, Shai Einbinder1,2, Ale
 3The Interuniversity Institute of Marine Sciences, Eilat, Israel                                                                                                                   
 4Central Caribbean Marine Institute, Little Cayman, Cayman Islands
 
-**This electronic notebook provides the raw data employed to analyze coral recruits dynamics across shallow and mesophotic reefs of the northern Red Sea and Bermuda.**
-
 ![front](https://github.com/Mass-Lab/Fluorescence_imaging_for_coral_recruits/blob/main/media/intro_image.jpg?raw=true)
+
+**This electronic notebook provides the raw data employed to analyze coral recruits dynamics across shallow and mesophotic reefs of the northern Red Sea and Bermuda.**
 
 ## Abstract  
 1.	Coral recruitment represents a key element for coral reef persistence and resilience in the face of environmental disturbances. Studying coral recruitment patterns is fundamental for assessing reef health and implementing appropriate management strategies in an era of climate change.
