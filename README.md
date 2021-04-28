@@ -22,3 +22,5 @@ Hagai Nativ1,2, Federica Scucchia1,3, Stephane Martinez1,2, Shai Einbinder1,2, A
 **Raw fluorescence images** - Raw images taken in Eilat at [5 meters](https://drive.google.com/drive/folders/1kRnCctGDP74CQS3OFxyPmTYaIrITtD6g?usp=sharing) and [45 meters](https://drive.google.com/drive/folders/1VYOURhrdAPkSdOsErBDvZRtsl03NsNXi?usp=sharing), and in Bermuda at [5 meters](https://drive.google.com/drive/folders/1iBtm98HAN1nKPKMfPRpXRlk9LWJtFoHn?usp=sharing) and [45 meters](https://drive.google.com/drive/folders/1VYOURhrdAPkSdOsErBDvZRtsl03NsNXi?usp=sharing).
 
 **Coral recruits count** - [Raw data](https://drive.google.com/file/d/11zhdGf1LYtF2nNeJezH6RVf0a_bNtpfI/view?usp=sharing) of coral recruits count based on the fluorescence images.
+
+**Workflow video** - [Video](https://drive.google.com/file/d/13MD6PGSn4cGHXMk0fuN9eUmfCcCm7esT/view?usp=sharing) describing the workflow of the image processing.
