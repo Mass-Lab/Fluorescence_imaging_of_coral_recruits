@@ -19,6 +19,6 @@ Hagai Nativ1,2, Federica Scucchia3, Stephane Martinez1,2, Shai Einbinder1,2, Ale
 6.	Our single-camera system represents a valuable, non-invasive and rapid underwater tool to investigate in situ corals recruitment over a broader range of depths than previous fluorescence methods. Our improved technique significantly increases the speed and accuracy of coral recruits’ count, ultimately allowing us to obtain a deeper understanding of coral early life-history patterns, which is critical for developing suitable reef conservation and management strategies.
 
 
-**[Raw fluorescence images]** - Raw images taken in Eilat at [5 meters]() and [45 meters](), and in Bermuda at [5 meters]() and [45 meters]().
+**Raw fluorescence images** - Raw images taken in Eilat at [5 meters](https://drive.google.com/drive/folders/1kRnCctGDP74CQS3OFxyPmTYaIrITtD6g?usp=sharing) and [45 meters](https://drive.google.com/drive/folders/1VYOURhrdAPkSdOsErBDvZRtsl03NsNXi?usp=sharing), and in Bermuda at [5 meters](https://drive.google.com/drive/folders/1iBtm98HAN1nKPKMfPRpXRlk9LWJtFoHn?usp=sharing) and [45 meters](https://drive.google.com/drive/folders/1VYOURhrdAPkSdOsErBDvZRtsl03NsNXi?usp=sharing).
 
-**[Coral recruits count]** - [Raw data](https://drive.google.com/file/d/11zhdGf1LYtF2nNeJezH6RVf0a_bNtpfI/view?usp=sharing) of coral recruits count based on the fluorescence images.
+**Coral recruits count** - [Raw data](https://drive.google.com/file/d/11zhdGf1LYtF2nNeJezH6RVf0a_bNtpfI/view?usp=sharing) of coral recruits count based on the fluorescence images.
