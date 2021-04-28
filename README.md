@@ -8,6 +8,8 @@ Hagai Nativ1,2, Federica Scucchia3, Stephane Martinez1,2, Shai Einbinder1,2, Ale
 
 **This electronic notebook provides the raw data employed to analyze coral recruits dynamics across shallow and mesophotic reefs of the northern Red Sea and Bermuda.**
 
+![front]()
+
 ## Abstract  
 1.	Coral recruitment represents a key element for coral reef persistence and resilience in the face of environmental disturbances. Studying coral recruitment patterns is fundamental for assessing reef health and implementing appropriate management strategies in an era of climate change.
 2.	In situ fluorescence census techniques have increasingly been used as they make highly cryptic coral recruits much easier and faster to detect than under standard white light census.
