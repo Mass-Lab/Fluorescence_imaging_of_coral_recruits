@@ -1,5 +1,5 @@
 # _In situ_ estimation of coral recruitment patterns from shallow to mesophotic reefs using an optimized fluorescence imaging system
-Hagai Nativ1,2, Federica Scucchia3, Stephane Martinez1,2, Shai Einbinder1,2, Alex Chequer4, Gretchen Goodbody-Gringley4, Tali Mass1,2
+Hagai Nativ1,2, Federica Scucchia1,3, Stephane Martinez1,2, Shai Einbinder1,2, Alex Chequer4, Gretchen Goodbody-Gringley4, Tali Mass1,2
 
 1Department of Marine Biology, Leon H. Charney School of Marine Sciences, University of Haifa, Haifa, Israel                                                                       
 2Morris Kahn Marine Research Station, The Leon H. Charney School of Marine Sciences, University of Haifa, Sdot Yam, Israel                                                         
