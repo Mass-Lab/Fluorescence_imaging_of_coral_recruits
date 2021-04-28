@@ -2,8 +2,11 @@
 Hagai Nativ1,2, Federica Scucchia3, Stephane Martinez1,2, Shai Einbinder1,2, Alex Chequer4, Gretchen Goodbody-Gringley4*, Tali Mass1,2*
 
 1Department of Marine Biology, Leon H. Charney School of Marine Sciences, University of Haifa, Haifa, Israel
+
 2Morris Kahn Marine Research Station, The Leon H. Charney School of Marine Sciences, University of Haifa, Sdot Yam, Israel
+
 3The Interuniversity Institute of Marine Sciences, Eilat, Israel
+
 4Central Caribbean Marine Institute, Little Cayman, Cayman Islands
 
 **This electronic notebook provides the raw data employed to analyze coral recruits dynamics across shallow and mesophotic reefs of the northern Red Sea and Bermuda.**
