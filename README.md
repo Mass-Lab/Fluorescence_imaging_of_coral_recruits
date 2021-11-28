@@ -1,10 +1,10 @@
 # _In situ_ estimation of coral recruitment patterns from shallow to mesophotic reefs using an optimized fluorescence imaging system
-Hagai Nativ1,2, Federica Scucchia1,3, Stephane Martinez1,2, Shai Einbinder1,2, Alex Chequer4, Gretchen Goodbody-Gringley4, Tali Mass1,2
+Hagai Nativ<sup>1,2</sup>, Federica Scucchia<sup>1,3</sup>, Stephane Martinez<sup>1,2</sup>, Shai Einbinder<sup>1,2</sup>, Alex Chequer<sup>4</sup>, Gretchen Goodbody-Gringley<sup>4</sup>, Tali Mass<sup>1,2</sup>
 
-1Department of Marine Biology, Leon H. Charney School of Marine Sciences, University of Haifa, Haifa, Israel                                                                       
-2Morris Kahn Marine Research Station, The Leon H. Charney School of Marine Sciences, University of Haifa, Sdot Yam, Israel                                                         
-3The Interuniversity Institute of Marine Sciences, Eilat, Israel                                                                                                                   
-4Central Caribbean Marine Institute, Little Cayman, Cayman Islands
+<sup>1</sup>Department of Marine Biology, Leon H. Charney School of Marine Sciences, University of Haifa, Haifa, Israel                                                                       
+<sup>2</sup>Morris Kahn Marine Research Station, The Leon H. Charney School of Marine Sciences, University of Haifa, Sdot Yam, Israel                                                         
+<sup>3</sup>The Interuniversity Institute of Marine Sciences, Eilat, Israel                                                                                                                   
+<sup>4</sup>Central Caribbean Marine Institute, Little Cayman, Cayman Islands
 
 ![front](https://github.com/Mass-Lab/Fluorescence_imaging_for_coral_recruits/blob/main/media/intro_image.jpg?raw=true)
 
